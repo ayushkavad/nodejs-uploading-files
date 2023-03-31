@@ -69,5 +69,3 @@ export const uploadFiles = async (req, res, next) => {
     console.log(err);
   }
 };
-
-// https://github.com/SachinKalsi/video-upload-and-video-streaming
